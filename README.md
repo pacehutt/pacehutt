@@ -1,4 +1,4 @@
-- Why you wanna know me??🗿
+- Why you wanna know me ??🗿
 - Hi, I’m @PaceHut 
    aka 'Mafiz'
 - Keen 🚀 to know the logics behind every code.
