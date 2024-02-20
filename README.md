@@ -8,8 +8,6 @@
 - just doing some projects ☠️ well you can find in my repos
 
 
-- But you ✔️can (can't🚫) reach me now
-
   
  
 ## Connect with me  
