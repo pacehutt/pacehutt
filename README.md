@@ -1,16 +1,15 @@
-- Why you wanna know me ??🗿
-- Hi, I’m @PaceHut 
-   aka 'Mafiz'
-- Keen 🚀 to know the logics behind every code.
+- why you wanna know me ??
+- hi, I’m @Pacehut also known as 'Mafiz'
+- continually exploring the intricacies of technology
 
 ![Tell me Why?!?](https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif)
 
-- just doing some projects ☠️ well you can find in my repos
+- just working on some projects, you can find them in my repos.
 
 
   
  
-## Connect with me  
+## connect with me  
 <div align="center">
 <a href="https://github.com/pacehutt" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
