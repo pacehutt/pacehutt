@@ -1,4 +1,3 @@
-- why you wanna know me ??
 - hi, I’m @Pacehut, also known as 'Mafiz'
 - continually exploring the intricacies of technology
 
