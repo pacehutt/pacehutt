@@ -3,7 +3,7 @@
 
 ![Tell me Why?!?](https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif)
 
-- just working on some projects, you can find them in my repos.
+just working on some projects, you can find them in my repos.
 
 
   
