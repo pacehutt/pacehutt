@@ -1,5 +1,5 @@
 - hi, I’m @Pacehut, also known as 'Mafiz'
-- exploring the intricacies of technology
+- exploring the intricacies of computing
 
 ![Tell me Why?!?](https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif)
 
